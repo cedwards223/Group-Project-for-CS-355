@@ -14,7 +14,7 @@ namespace WindowsFormsApplication1
         const int total = 2000;
         bool usernameCheck;
         bool passwordCheck;
-        string[,] userPlusPass = new string userPlusPass[total,total]; //array for usernames and passwords
+        //string[,] userPlusPass = new string userPlusPass[total,total]; //array for usernames and passwords
        
         public Form1()
         {
@@ -93,8 +93,25 @@ namespace WindowsFormsApplication1
 
         private void logoutToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            UsernameText.Text = "";
+            UsernameText.Focus();
+            passwordText.Text = "";
+            label1.Show();
+            label2.Show();
+            UsernameText.Show();
+            passwordText.Enabled = true;
+            UsernameText.Enabled = true;
+            passwordText.Show();
+            LoginButton.Show();
+            LoginButton.Enabled = true;
+            ClassOfferings.Hide();
+            addClassesToolStripMenuItem.Enabled = false;
+            classOfferingsToolStripMenuItem.Enabled = false;
+            scheduleToolStripMenuItem.Enabled = false;
+
             //username = "";
             //password = "";
+
         }
 
         private void classOfferingsToolStripMenuItem_Click(object sender, EventArgs e)

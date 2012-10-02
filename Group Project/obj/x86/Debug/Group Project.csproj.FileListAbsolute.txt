@@ -1,0 +1,9 @@
+C:\Users\Chris\Documents\GitHub\Group-Project-for-CS-355\Group Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\Group-Project-for-CS-355\Group Project\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Chris\Documents\GitHub\Group-Project-for-CS-355\Group Project\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Chris\Documents\GitHub\Group-Project-for-CS-355\Group Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Documents\GitHub\Group-Project-for-CS-355\Group Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Documents\GitHub\Group-Project-for-CS-355\Group Project\bin\Debug\Group Project.exe
+C:\Users\Chris\Documents\GitHub\Group-Project-for-CS-355\Group Project\bin\Debug\Group Project.pdb
+C:\Users\Chris\Documents\GitHub\Group-Project-for-CS-355\Group Project\obj\x86\Debug\Group Project.exe
+C:\Users\Chris\Documents\GitHub\Group-Project-for-CS-355\Group Project\obj\x86\Debug\Group Project.pdb
